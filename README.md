@@ -7,7 +7,7 @@
 -   [Bootstrap5.1.3](https://getbootstrap.com/)
 -   [Jquery1.11.1](https://jquery.com/)
 -   [Jqueryui1.10.3](https://jqueryui.com/)
--   [prefixfree](https://projects.verou.me/prefixfree/)
+-   [Prefixfree](https://projects.verou.me/prefixfree/)
 -   [Aos2.3.1](https://michalsnik.github.io/aos/)
 
 ## Preview
